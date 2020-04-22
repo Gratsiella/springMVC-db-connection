@@ -1,0 +1,6 @@
+h2{color: black;}
+body {background-color: lightpink;}
+.jumbotron{background-color:indianred; 
+          font-family:"Comic Sans MS", cursive, sans-serif; 
+          text-transform: uppercase;}
+.error{color: red; font-weight: bolder;}
